@@ -1,0 +1,15 @@
+C:\개인공부\c#\csharp_study_01\bin\Debug\net9.0\csharp_study_01.exe
+C:\개인공부\c#\csharp_study_01\bin\Debug\net9.0\csharp_study_01.deps.json
+C:\개인공부\c#\csharp_study_01\bin\Debug\net9.0\csharp_study_01.runtimeconfig.json
+C:\개인공부\c#\csharp_study_01\bin\Debug\net9.0\csharp_study_01.dll
+C:\개인공부\c#\csharp_study_01\bin\Debug\net9.0\csharp_study_01.pdb
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.AssemblyInfoInputs.cache
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.AssemblyInfo.cs
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.csproj.CoreCompileInputs.cache
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.sourcelink.json
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.dll
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\refint\csharp_study_01.dll
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.pdb
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\csharp_study_01.genruntimeconfig.cache
+C:\개인공부\c#\csharp_study_01\obj\Debug\net9.0\ref\csharp_study_01.dll

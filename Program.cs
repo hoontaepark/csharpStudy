@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 
-namespace TestProject
+namespace MyApp
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
